@@ -1,0 +1,12 @@
+format,result,team_matches
+ODI,lost,3047
+ODI,no result,244
+ODI,tied,68
+ODI,won,3047
+T20,lost,10180
+T20,no result,364
+T20,tied,202
+T20,won,10180
+TEST,draw,358
+TEST,lost,740
+TEST,won,740
